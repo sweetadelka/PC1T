@@ -1,0 +1,5 @@
+C:/VUT/PC1T/Cv07/2d/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/VUT/PC1T/Cv07/2d/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/VUT/PC1T/Cv07/2d/out/build/x64-debug/2d/CMakeFiles/2d.dir
+C:/VUT/PC1T/Cv07/2d/out/build/x64-debug/2d/CMakeFiles/edit_cache.dir
+C:/VUT/PC1T/Cv07/2d/out/build/x64-debug/2d/CMakeFiles/rebuild_cache.dir
