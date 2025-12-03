@@ -1,0 +1,5 @@
+C:/VUT/PC1T/Projekt/HraLode/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/VUT/PC1T/Projekt/HraLode/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/VUT/PC1T/Projekt/HraLode/out/build/x64-debug/HraLode/CMakeFiles/HraLode.dir
+C:/VUT/PC1T/Projekt/HraLode/out/build/x64-debug/HraLode/CMakeFiles/edit_cache.dir
+C:/VUT/PC1T/Projekt/HraLode/out/build/x64-debug/HraLode/CMakeFiles/rebuild_cache.dir

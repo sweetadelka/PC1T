@@ -1,0 +1,5 @@
+C:/VUT/PC1T/Cv10/Soubory/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/VUT/PC1T/Cv10/Soubory/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/VUT/PC1T/Cv10/Soubory/out/build/x64-debug/Soubory/CMakeFiles/Soubory.dir
+C:/VUT/PC1T/Cv10/Soubory/out/build/x64-debug/Soubory/CMakeFiles/edit_cache.dir
+C:/VUT/PC1T/Cv10/Soubory/out/build/x64-debug/Soubory/CMakeFiles/rebuild_cache.dir

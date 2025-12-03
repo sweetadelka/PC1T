@@ -1,0 +1,5 @@
+Pocet pismen: 1691
+Pocet cislic: 51
+Pocet velkych pismen: 143
+Pocet vet: 120
+Pocet slov: 684
