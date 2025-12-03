@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/VUT/PC1T/Cv09/3dVektory/out/build/x64-debug/3dVektory/CMakeFiles/3dVektory.dir/embed.manifest"

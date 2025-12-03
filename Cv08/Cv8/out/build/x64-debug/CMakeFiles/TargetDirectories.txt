@@ -1,0 +1,5 @@
+C:/VUT/PC1T/Cv08/Cv8/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/VUT/PC1T/Cv08/Cv8/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/VUT/PC1T/Cv08/Cv8/out/build/x64-debug/Cv8/CMakeFiles/Cv8.dir
+C:/VUT/PC1T/Cv08/Cv8/out/build/x64-debug/Cv8/CMakeFiles/edit_cache.dir
+C:/VUT/PC1T/Cv08/Cv8/out/build/x64-debug/Cv8/CMakeFiles/rebuild_cache.dir
