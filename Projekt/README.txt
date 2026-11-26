@@ -1,1 +1,0 @@
-Po posledních úpravách mi program bohužel nelze spustit, protože údajně v cíli chybí spustitelný soubor. Posledních 30 minut se to tady snažím opravit, ale stále jsem nepřišla na to jak a více času už nemám. Během dneška se to znovu pokusím opravit, ale bude to až po 9:00.
